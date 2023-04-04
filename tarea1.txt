@@ -1,0 +1,55 @@
+USO Y EJEMPLOS EN JAVASCRIPT
+
+A) FOR.-
+Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+
+EJEMPLOS:
+1.for (var i = 0; i < 9; i++) {
+   n += i;
+   mifuncion(n);
+ }
+
+B) WHILE.-
+su finalidad es la de realizar bucles condicionales hasta que se cumpla cierta condición para que pare o se detenga dicho loop.
+EJEMPLOS:
+1. var frase = "";
+   var n = 1;
+   while (n < 10) 
+	     { 
+	     frase += "El valor de n es " + n + "<br>"; 
+	     n++;
+	     }
+   document.writeln(frase);
+ 2.var frase = "";
+   var n = 1;
+    	do{ 
+    	frase += "El valor de n es " + n + "<br>"; 
+  	  n++;
+    	}while (n < 10) 
+document.writeln(frase);
+
+C) IF.-
+La sentencia if(...) evalúa la condición en los paréntesis, y si el resultado es verdadero (true), ejecuta un bloque de código.
+
+EJEMPLO:
+1.let year = prompt('¿En que año fué publicada la especificación ECMAScript-2015?', '');
+2.if (year == 2015) alert( '¡Estás en lo cierto!' );
+
+D) CASE.-
+En programación, una sentencia switch es una instrucción de flujo de control que prueba el valor de una expresión expression contra varios casos.
+
+EJEMPLOS:
+switch (expresion) {
+  case 1:
+   //este código se ejecutará si el caso coincide con la expresión
+    break;
+  case 2:
+   //este código se ejecutará si el caso coincide con la expresión
+    break;
+  case 3:
+   //este código se ejecutará si el caso coincide con la expresión
+    break;
+  default:
+    //este código se ejecutará si ninguno de los casos coincide con la expresión
+    break;
+}
