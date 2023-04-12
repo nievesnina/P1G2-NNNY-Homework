@@ -1,0 +1,54 @@
+var numero_uno = 30;
+
+var numero_dos = "30";
+
+/*
+if(true){
+if(false){
+if(!false){
+*/
+if(!true){
+   console.log("la condicion fue verdadera");
+
+}
+*/
+
+/*
+if(numero_uno < numero_dos){
+if(numero_dos > numero_uno){
+if(!(numero_uno < numero_dos)){
+if(numero_uno && false){
+if(numero_uno && true){
+if(false && false){
+if(true || false){
+if(numero_uno == numero_dos){
+if(numero_uno === numero_dos){
+if(numero_uno != numero_dos){
+if(numero_uno !== numero_dos){
+if(numero_uno === numero_dos){
+
+  console.log("Entre al bloque");
+  console.log("Entre al asdas");
+  console.log("Entre al :P");
+  console.log("No imprimio");
+  console.log("Devuelve falso");
+
+}else if(false){
+
+}
+else if(false){
+
+}
+else{
+   console.log("Entre al :P");
+
+*/
+
+//bool -> true / false
+
+/*operadores logicos */
+// || OR
+// && AND
+// == ====
+// != !==
+// !
