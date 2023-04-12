@@ -1,0 +1,32 @@
+var edad = 19;
+edad++;
+
+var punto_flotantes = 12.5;
+
+/*
+operadores aritméticos
+División = /
+Multiplicación = *
+Suma = +
+Resta = -
+Módulo = %
+/*
+
+var resultado_suma = edad % 2;
+
+console.log(resultado_suma);
+
+funtion es_par(numero){
+  if(numero % 2==0){
+    return true;
+  }
+  return false;
+}
+
+console.log(Math.pow(2,3));
+console.log(Math.round(0,9));
+console.log(Math.ceil(0,3));
+console.log(Math.flour(0,9));
+console.log(Math.PI);
+console.log(math.ramdon());
+console.log(math.sqrt(4));
