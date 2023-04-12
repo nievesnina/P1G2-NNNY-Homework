@@ -1,0 +1,25 @@
+var number = 0.2;
+var number = "hola mundo";
+var number = {};
+
+//console.log(typeof number);
+
+var hola =null;
+// undefined
+
+console.log(undefined);
+
+if(typeof hola == "undefined"){
+ if(null == undefined){
+  if(null === undefined){
+   if(typeof una_variable == "undefined"){
+
+  console.log("esta variable no esta declarada");
+}
+
+console.log(undefined);
+
+if(hola == null){
+  hola = "hola";
+
+}
