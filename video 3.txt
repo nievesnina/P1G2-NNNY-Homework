@@ -1,0 +1,31 @@
+var nombre = "2 Uriel";
+
+//var cadena = "Hola" + nombre;
+
+//var resultado =cadena.indexOf("CódigoFacilito")
+
+//console.log(resultado);
+
+/*
+if(nombre.indexOf("Uriel") != -1){
+  console.log("Eres el tutor del curso")
+}else{
+  console.log("No eres el tutor del curso");
+}
+/*
+
+//console.log(nombre.indexOf("Uriel")):;
+//console.log(nombre[2]);
+//console.log(nombre[nombre.length -1]);
+//console.log(nombre.charAt(0));
+//console.log(nombre.charAt(1));
+
+//nombre = nombre.replace("U","A");
+
+//console.log(nombre);
+
+//console.log(nombre.slice(2,3))
+//console.log(nombre.slice(2,4))
+//console.log(nombre.slice(0,2))
+//console.log(nombre.toUpperCase());
+console.log(nombre.toLowerCase());
